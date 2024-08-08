@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Christian, gamer, and programming is cool
+I like the internet, and uhh yeah
+
+Thank you, and God bless you person reading my README!
+
 <!--
 **notatree2/notatree2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
