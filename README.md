@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I am a Christian, gamer, and programming is cool
-I use different profile pictures across all platforms
+Hello, i am notatree2, im also known as notacupofmilk, (nicknamed notmilk, milk, etc)
+I am a Christian, a gamer, and a guy who likes the internet
 
-I like the internet, and uhh yeah
+I have a website if you want to check it out: https://notatree2.github.io/mywebsite2/
+
+Anyways, have an amazing day and God bless you person reading my readme!
+
 
 Thank you, and God bless you person reading my README!
 
