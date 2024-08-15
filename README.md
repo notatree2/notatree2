@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I am a Christian, gamer, and programming is cool
+I use different profile pictures across all platforms
+
 I like the internet, and uhh yeah
 
 Thank you, and God bless you person reading my README!
