@@ -8,7 +8,6 @@ I have a website if you want to check it out: https://notatree2.github.io/mywebs
 Anyways, have an amazing day and God bless you person reading my readme!
 
 
-Thank you, and God bless you person reading my README!
 
 <!--
 **notatree2/notatree2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
